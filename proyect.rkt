@@ -34,13 +34,13 @@
   (cond
     [(equal? k 'add)
      (++ elipse-size)]
-    [(and (char? k) (char=? k #\a))
+    [(char=? k #\a)
      (:= c-pressed "#3232FF")
      (:= c-base "#3232AA")]
-    [(and (char? k) (char=? k #\b))
+    [(char=? k #\b)
      (:= c-pressed "#F4FA4A")
      (:= c-base "#A6AA32")]
-    [(and (char? k) (char=? k #\c))
+    [(char=? k #\c)
      (:= c-pressed "#4AFAE5")
      (:= c-base "#22776D")]
     [else
