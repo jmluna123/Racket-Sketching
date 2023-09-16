@@ -16,7 +16,7 @@ Actualmente, se implementó dos formas diferentes para el pincel: cuadrado y cir
 
 También, agregamos diferentes colores como el azul, verde, rojo, amarillo, entre otros para ofrecer variedad en los diseños posibles.
 
-![Dashboard](https://github.com/jmluna123/Racket-Sketching/blob/main/img/colors.gif)
+![Dashboard](https://github.com/jmluna123/Racket-Sketching/blob/main/img/colores.gif)
 
 ## 📌 Prerequisitos
 
